@@ -1,0 +1,3 @@
+rootProject.name='LibOnboarding'
+include ':app'
+include ':milibreriaonboarding'
