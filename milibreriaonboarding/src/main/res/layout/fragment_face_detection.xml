@@ -5,16 +5,16 @@
     android:layout_height="match_parent"
     tools:context=".Onboarding.FaceDetectionFragment"
     android:orientation="vertical"
-    android:background="@drawable/fondouf2">
+    android:background="@drawable/fondopro">
 
     <ImageView
         android:id="@+id/imgAwards"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
         android:scaleType="centerCrop"
         android:layout_gravity="center"
-        android:layout_marginTop="150dp"
-        android:src="@drawable/ubi" />
+        android:layout_marginTop="100dp"
+        android:src="@drawable/Imagen3" />
 
     <TextView
         android:id="@+id/textTitle2"

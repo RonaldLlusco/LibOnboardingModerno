@@ -1,15 +1,15 @@
 <resources>
     <!--nombre app-->
-    <string name="app_name">Unifranzitos</string>
+    <string name="app_name">ONBORDING - RONALD LLUSCO</string>
     <!--pantalla uno-->
     <string name="title1">Bienvenido</string>
-    <string name="desc1">Campeonato de fútbol UnifranZitos a nivel local y todas las sedes.</string>
+    <string name="desc1">A la libreria de ONBORDING de Ronald Llusco Villarpando ING. DE SISTEMAS</string>
     <!--pantalla dos-->
-    <string name="title2">Grandes premios</string>
-    <string name="desc2">Se tiene categoría varones y mujeres con premiacion hasta el 3er lugar</string>
+    <string name="title2">Quienes Somos...</string>
+    <string name="desc2">Muestra lo mejor de tu app, un breve objetivo</string>
     <!--pantalla tres-->
-    <string name="title3">Inscripcion</string>
-    <string name="desc3">Inscribe a tu equipo desde la App</string>
+    <string name="title3">Texto aqui</string>
+    <string name="desc3">Describe tu App AQUI</string>
     <!--botonera-->
     <string name="next">Siguiente</string>
     <string name="back">Atrás</string>

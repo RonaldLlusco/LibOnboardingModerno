@@ -5,23 +5,23 @@
     android:layout_height="match_parent"
     tools:context=".Onboarding.WelcomeFragment"
     android:orientation="vertical"
-    android:background="@drawable/fondouf"
+    android:background="@drawable/fondopro"
     >
 
     <ImageView
         android:id="@+id/imgWelcome"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
         android:scaleType="centerCrop"
         android:layout_gravity="center"
-        android:layout_marginTop="100dp"
-        android:src="@drawable/logounigranzitos" />
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ronald" />
 
     <TextView
         android:id="@+id/textTitle1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="0dp"
         android:fontFamily="@font/aclonica"
         android:gravity="center"
         android:text="@string/title1"
@@ -37,7 +37,7 @@
         android:gravity="center"
         android:text="@string/desc1"
         android:textColor="@color/colorWhite"
-        android:textSize="18sp" />
+        android:textSize="20sp" />
 
     <LinearLayout
         android:id="@+id/layoutNext"
